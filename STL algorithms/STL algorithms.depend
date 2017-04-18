@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489579305 source:d:\stl algorithms\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+
